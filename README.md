@@ -1,6 +1,6 @@
-<div align="center">
-  <h1> 🚀 안녕하세요, 하드웨어와 소프트웨어를 잇는 개발자 손혜원입니다! </h1>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=5&color=171717&center=true&vCenter=true&width=600&lines=안녕하세요,+하드웨어와+소프트웨어를+잇는+개발자+손혜원입니다!🙌" />
+</p>
 
 
 

@@ -39,7 +39,7 @@
 ### 📈 Stock101
 - **Role:** Design, Full-stack Developer
 - **Description:** 주식 투자 입문자를 위한 시뮬레이션 플랫폼
-- <a href="https://github.com/sonhyee/be18-2nd-monsterinc-stock101"><img src="https://img.shields.io/badge/Go_to_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
+- <a href="https://github.com/sonhyee/be18-4th-3starJhin-stock101"><img src="https://img.shields.io/badge/Go_to_Repository-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ### 🔬 영상 처리 기반 디스플레이 화질 결함 자동 검출 시스템
 - **Achievement:** 대한임베디드공학회 논문 게재

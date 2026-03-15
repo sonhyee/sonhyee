@@ -6,8 +6,8 @@
 
 ## 🔍 About Me
 - 🎓 **School of Electronics Engineering**, Major in **Semiconductor System Engineering**
-- 🛠 **Embedded & Computer Vision:** 영상 처리와 임베디드 시스템 최적화에 강점이 있습니다.
-- 🏆 **Result-Oriented:** 논문 게재 및 다수의 프로젝트 수상 경험을 보유하고 있습니다.
+- 🛠 **Embedded & Computer Vision** 
+- 🏆 **Result-Oriented** 
 
 
 
